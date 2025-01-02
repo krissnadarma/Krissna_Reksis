@@ -1,1 +1,1 @@
-# Krissna_Reksis
+# reksis-novel
