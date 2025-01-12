@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-novell_df = pd.read_csv("novel.csv")
+novell_df = pd.read_csv("music_data.csv")
 #st.dataframe(novell_df)
 
 
